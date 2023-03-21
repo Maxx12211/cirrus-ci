@@ -28,3 +28,4 @@ git clone --depth=1 https://github.com/ArrowOS/android_hardware_qcom_bootctrl.gi
 
 # Exit
 exit 0
+ 
